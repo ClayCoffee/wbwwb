@@ -20,7 +20,7 @@ var textStrings_CN = {
     "somethingInteresting" : "(你应该拍些有趣的)" ,
      "whoIsScreaming"       : "(谁在尖叫？）"               ,
     "circleFearsSquares"   : "小圆害怕小方"                                  ,
-    "whoScaresThem"        : "(你应该拍下谁在害怕他们)"         ,
+    "whoScaresThem"        : "(你应该拍下是谁使他们害怕)"         ,
      "areTheyScared"        : "(你得拍住他们被小方吓坏了)"       , 
      "squaresSnubCircles"   : "小方冷落小圆"                                  ,
     "areTheySnubbed"       : "(你必须拍下他们 *正在* 冷落小圆)"        , 
